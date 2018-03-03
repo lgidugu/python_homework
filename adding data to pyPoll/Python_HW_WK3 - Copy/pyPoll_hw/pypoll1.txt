@@ -1,0 +1,18 @@
+C:\Users\lgidu\venv\pyPoll_hw\Scripts\python.exe C:/Users/lgidu/PycharmProjects/pyPoll_hw/pyPoll1.py
+
+Election Results
+__________________________________
+Total Votes are : 803000
+_________________________________
+Vestal :48.0 %
+ ( 385440 )
+Torres :44.0 %
+ ( 353320 )
+Seth :5.0 %
+ ( 40150 )
+Cordin :3.0 %
+ ( 24090 )
+___________________________________
+Winner is  Vestal
+___________________________________
+
